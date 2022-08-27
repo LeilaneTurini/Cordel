@@ -1,3 +1,2 @@
 # Cordel
-Projeto cordel Milton Duarte
-Vá para: https://leilaneturini.github.io/projeto-android/
+Projeto Cordel de Milton Duarte, para visualizar, vá para: https://leilaneturini.github.io/projeto-android/
